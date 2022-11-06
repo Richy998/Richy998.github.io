@@ -20,15 +20,15 @@ var videosarr = [];
 
 
 
-videos[0]= "videos/tt0.mp4";
-videos[1]= "videos/tt1.mp4";
-videos[2]= "videos/tt2.mp4";
-videos[3]= "videos/tt3.mp4";
-videos[4]= "videos/tt4.mp4";
-videos[5]= "videos/tt5.mp4";
-videos[6]= "videos/tt6.mp4";
-videos[7]= "videos/tt7.mp4";
-videos[8]= "videos/tt8.mp4";
+videos[0]= "tt0.mp4";
+videos[1]= "tt1.mp4";
+videos[2]= "tt2.mp4";
+videos[3]= "tt3.mp4";
+videos[4]= "tt4.mp4";
+videos[5]= "tt5.mp4";
+videos[6]= "tt6.mp4";
+videos[7]= "tt7.mp4";
+videos[8]= "tt8.mp4";
     
     video =  document.createElement("video");
     video.poster='fotos/blank.jpg';
